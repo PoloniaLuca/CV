@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cv.xslt" type="text/xsl" ?>
+<cv>
+	Curriculum Vitae Europass - Aggiornato a Ottobre 2021
+	<me>
+		<nome>Luca Polonia</nome>
+		<indirizzo>Via Milano 87/A, Desio, 20832</indirizzo>
+		<cellulare>+39 370 313 7138</cellulare>
+		<email>luca.polo03@gmail.com</email>
+		<linkedin>Luca Polonia</linkedin>
+		<cittadinanza>Italiana</cittadinanza>
+		<dataNascita>21/10/2003</dataNascita>
+		<sesso>maschile</sesso>
+	</me>
+	<education>
+		<qualification>
+			<stabile>IIS ETTORE MAJORANA, Cesano Maderno</stabile>
+			<tipoScuola>Scuola Superiore</tipoScuola>
+			<da>2016</da>
+			<a>in corso(2022)</a>
+		</qualification>
+		<languages>
+			<madrelingua>Italiano</madrelingua>
+			<altrLingue>Inglese</altrLingue>
+		</languages>
+		<computerSkill>
+			<area>IDE/SDK</area>
+			<skill>Visual Studio Code, Sublime Text 3, PyCharm, Notepad++, Eclipse, Atom, Remix, Kite</skill>
+		</computerSkill>
+		<computerSkill>
+			<area>Languages</area>
+			<skill>Python, JavaScript, Java, C, HTML, CSS, Php, XML</skill>
+		</computerSkill>
+		<computerSkill>
+			<area>Operating System</area>
+			<skill>Windows(ALL), IOS</skill>
+		</computerSkill>
+		<patente>
+			A1
+		</patente>
+	</education>
+	<authorisation>
+		Autorizzo il trattamento dei miei dati personali ai sensi del Decreto Legislativo 30 giugno 2003, n. 196
+		"Codice in materia di protezione dei dati personali".
+	</authorisation>
+</cv>
